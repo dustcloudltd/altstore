@@ -1,0 +1,55 @@
+{
+  "name": "Dustcloud",
+  "subtitle": "Games by Dustcloud",
+  "description": "Games made by Dustcloud.",
+  "iconURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/icon.png",
+  "website": "https://dustcloud-ewcuh8c8cwgcagcv.uksouth-01.azurewebsites.net/pokernight/privacy.html",
+  "tintColor": "#1E6B45",
+  "featuredApps": [
+    "com.dustcloud.pokernight"
+  ],
+  "apps": [
+    {
+      "name": "Dusty's Poker Night",
+      "bundleIdentifier": "com.dustcloud.pokernight",
+      "marketplaceID": "6831103817",
+      "developerName": "Dustcloud",
+      "subtitle": "Texas Hold'em on your WiFi",
+      "localizedDescription": "Poker night, the way it should be: around one table, with the people in the room.\n\nDusty's Poker Night is No-Limit Texas Hold'em for friends on the same WiFi. One phone (or a tablet or laptop)\nhosts the table and everyone else plays on their own phone. Your cards stay face down until you hold them up\nto look - and everyone sees you pick them up, just like at a real table.\n\nNO INTERNET NEEDED\nThe phones talk to each other directly over your WiFi or a phone's hotspot. No accounts, no sign-ins, no\nservers, no ads. Nothing leaves the room.\n\nPLAY YOUR WAY\n- 2 to 8 players, any mix of iPhone, iPad and Android\n- Use a tablet or laptop as the table in the middle, or just play on phones\n- Bots (easy, normal, hard) to fill empty seats - or to practise alone\n- Choose starting chips, blinds and how fast they rise, rebuys on or off\n- Pre-moves (check/fold, call any) so the game keeps moving\n- Show your cards after you win - or keep them a mystery\n\nLOOKS THE PART\n- Painted casino table, gold and leather, or a clean dark look\n- Cards dealt, chips pushed, cards turned over, pot slid to the winner\n- Your best hand named while you look at your cards\n- Take a selfie for your seat (shown only at your table)\n- An end-of-night summary: who's up, the biggest pot, who won the most hands\n\nJUST FOR FUN\nThere is no real money anywhere in this game and nothing to buy. Chips are points that last one night.\n\nMade by Dustcloud.",
+      "iconURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/icon.png",
+      "tintColor": "#1E6B45",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "44518",
+          "date": "2026-11-06T15:26:48Z",
+          "localizedDescription": "First release.",
+          "downloadURL": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/manifest.json",
+          "size": 34450547,
+          "minOSVersion": "15.0",
+          "assetURLs": {
+            "manifest": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/manifest.json",
+            "signature": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/signature",
+            "1d117428-66e6-378f-9238-4b43653bccf4": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/1d117428-66e6-378f-9238-4b43653bccf4.ipa",
+            "262c9f35-9642-32a3-ab34-4f5aadabb3a3": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/262c9f35-9642-32a3-ab34-4f5aadabb3a3.ipa",
+            "6d055a49-6869-35dd-ad0c-4cf19306e80d": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/6d055a49-6869-35dd-ad0c-4cf19306e80d.ipa",
+            "8eea62ad-4364-3ca1-8046-b9fa0ce1c459": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/8eea62ad-4364-3ca1-8046-b9fa0ce1c459.ipa",
+            "8f920172-23e8-3942-8c5f-30ab95086632": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/8f920172-23e8-3942-8c5f-30ab95086632.ipa",
+            "c358f010-600e-314d-a382-67702603ca47": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/c358f010-600e-314d-a382-67702603ca47.ipa",
+            "dc67219a-df19-3751-9121-b65f74d4e10d": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/dc67219a-df19-3751-9121-b65f74d4e10d.ipa",
+            "f1d6c3a5-bfb8-30e7-9b92-4e64e170b060": "https://github.com/dustcloudltd/altstore/releases/download/pokernight-1.0.0-44518/f1d6c3a5-bfb8-30e7-9b92-4e64e170b060.ipa"
+          }
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Take a picture of yourself to show at the poker table. It only goes to the people at your table, on your WiFi.",
+          "NSLocalNetworkUsageDescription": "Poker Night finds and joins poker tables on this WiFi, so you can play with the people in the room."
+        }
+      }
+    }
+  ],
+  "news": []
+}
