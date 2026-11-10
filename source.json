@@ -48,9 +48,66 @@
           "NSCameraUsageDescription": "Take a picture of yourself to show at the poker table. It only goes to the people at your table, on your WiFi.",
           "NSLocalNetworkUsageDescription": "Poker Night finds and joins poker tables on this WiFi, so you can play with the people in the room."
         }
+      },
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/iphone-1.jpg",
+            "width": 1320,
+            "height": 2868
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/iphone-2.jpg",
+            "width": 1320,
+            "height": 2868
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/iphone-3.jpg",
+            "width": 1320,
+            "height": 2868
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/iphone-4.jpg",
+            "width": 1320,
+            "height": 2868
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/iphone-5.jpg",
+            "width": 1320,
+            "height": 2868
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/ipad-1.jpg",
+            "width": 2064,
+            "height": 2752
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/ipad-2.jpg",
+            "width": 2064,
+            "height": 2752
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/ipad-3.jpg",
+            "width": 2064,
+            "height": 2752
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/ipad-4.jpg",
+            "width": 2064,
+            "height": 2752
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/dustcloudltd/altstore/main/screenshots/ipad-5.jpg",
+            "width": 2064,
+            "height": 2752
+          }
+        ]
       }
     }
   ],
   "news": [],
-  "fediUsername": "dustcloud"
+  "fediUsername": "dustcloud",
+  "nsfw": false
 }
